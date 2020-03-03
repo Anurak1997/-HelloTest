@@ -10,6 +10,8 @@
     This is super awesome.
   </p>
   <p>
-    This is my 1st Ionic app ever.
+    This is my 1st Ionic app .
   </p>
 </ion-content>
+
+ <p>preuktichai iedrod</p>
